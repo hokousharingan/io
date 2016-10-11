@@ -1,1 +1,1 @@
-# jakos dziala xD 
+Repozytorium na IO
