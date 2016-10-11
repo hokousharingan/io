@@ -1,1 +1,1 @@
-# io
+# jakos dziala xD 
