@@ -6,7 +6,6 @@ int main(){
 cout<<"podaj liczbe ";
 int a;
 cin >> a;
-//zmiana
 cout<<" ale po co podales " << a << "?"<< endl;
 
 return 0;
